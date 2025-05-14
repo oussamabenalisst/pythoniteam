@@ -1,0 +1,5 @@
+index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price
+0,Toyota,Sedan,95.7,158.7,dohc,four,97.0,24.0,13495.0
+1,BMW,Hatchback,101.2,172.6,ohc,six,111.0,28.0,16430.0
+2,Audi,Sedan,99.5,180.0,ohcv,five,104.33333333333333,26.0,20000.0
+3,Toyota,SUV,100.0,170.0,dohc,four,105.0,19.5,12481.25

@@ -1,0 +1,4 @@
+SR001,202001,100.0,FINAL,Dollars,Sales,G1,TitleA
+SR002,202002,200.0,PROV,Dollars,Sales,G1,TitleB
+SR003,202003,,FINAL,Dollars,Sales,G1,TitleC
+SR004,202004,150.0,REVISED,Dollars,Sales,G1,TitleD
